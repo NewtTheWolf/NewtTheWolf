@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [TieCMS](https://github.com/TieCMS/TieCMS)
 
-- 👨‍💻 All of my projects are available at [newt.ch or spitzli.dev](newt.ch or spitzli.dev)
+- 👨‍💻 All of my projects are available at [newt.ch](newt.ch) or [spitzli.dev](spitzli.dev)
 
 - 💬 Ask me about **Deno**
 
