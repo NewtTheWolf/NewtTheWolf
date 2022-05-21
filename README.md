@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/newtthewolf" target="blank"><img src="https://img.shields.io/twitter/follow/newtthewolf?logo=twitter&style=for-the-badge" alt="newtthewolf" /></a> </p>
 
-- 🔭 I’m currently working on [TieCMS](https://github.com/TieCMS/TieCMS)
+- 🔭 I’m currently working on [Evergene](https://evergene.io) and [Spitzli Development](https://spitzli.dev)
 
 - 🌱 I’m currently learning **Deno, React**
 
-- 🤝 I’m looking for help with [TieCMS](https://github.com/TieCMS/TieCMS)
+- 🤝 I’m looking for help with [Evergene](https://evergene.io) and [Spitzli Development](https://spitzli.dev)
 
-- 👨‍💻 All of my projects are available at [newt.ch](newt.ch) or [spitzli.dev](spitzli.dev)
-
-- 💬 Ask me about **Deno**
+- 👨‍💻 All of my projects are available at [spitzli.dev](spitzli.dev)
 
 - 📫 How to reach me **to@newt.ch or dominik@spitzli.dev**
-
-- ⚡ Fun fact **i am a wild Furry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
