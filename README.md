@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik - aka Newt</h1>
 <h3 align="center">I am a fullstack developer from Germany</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NewtTheWolf&label=Profile%20views&color=0e75b6&style=flat" alt="NewtTheWolf" /> </p>
 # 💫 About Me:
 🔭 I’m currently working on [GuessTheRank](https://guesstherank.org/)<br>🤝 I’m looking for help with Sveltekit<br>🌱 I’m currently learning Sveltekit<br>💬 Ask me about Rust, Backend<br>⚡ Fun fact i am a Furry
 
